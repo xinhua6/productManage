@@ -6,6 +6,6 @@ npm install
 
 node app.js
 
-与此同时开次本地的数据库mongodb
+与此同时开启本地的数据库mongodb
 
 详细查看个人博客https://www.cnblogs.com/lanhuo666/p/10031168.html
